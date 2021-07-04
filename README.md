@@ -9,7 +9,6 @@ IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, Rider, GoLand.
 
 ### Manually
 
-* Close all JetBrains applications
 * For first time only:
 ```sh
 chmod +x run.sh
@@ -29,5 +28,3 @@ For run script every `Sunday at 13:00`:
 For remove job from cron delete line with task from `crontab -e`
 
 P.S. You can play with crone schedule [here](https://crontab.guru/)
-
-Based on [alexatiks](https://github.com/alexatiks/jetbrains-reset-trial-evaluation-mac) DMCA repo
